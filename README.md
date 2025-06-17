@@ -23,4 +23,4 @@ Criar uma ferramenta que ajude usuários a:
 
 ---
 
-📱 Link do design Figma: https://www.figma.com/design/EJkYAqy8knSudiZDeBDZJC/SemBet---Sprint?node-id=2009-23838&t=WgEXfBwo7UIqRAXn-1
+##📱 Link do design Figma: https://www.figma.com/design/EJkYAqy8knSudiZDeBDZJC/SemBet---Sprint?node-id=2009-23838&t=WgEXfBwo7UIqRAXn-1
