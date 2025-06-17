@@ -20,3 +20,7 @@ Criar uma ferramenta que ajude usuários a:
 | Debora da Silva Amaral       | 550412   |
 | Eduardo Pielich Sanchez      | 99767    |
 | Lívia Namba Seraphim         | 97819    |
+
+---
+
+📱 Link do design Figma: https://www.figma.com/design/EJkYAqy8knSudiZDeBDZJC/SemBet---Sprint?node-id=2009-23838&t=WgEXfBwo7UIqRAXn-1
